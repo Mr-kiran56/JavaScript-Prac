@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.btn{
+background-color: rgb(51,51,51);
+color: white;
+padding: 22px;
+border-radius: 60px;
+border: none;
+font-size: 27px;
+height: 70px;
+width: 70px;
+cursor: pointer;
+margin-left: 5px;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+.btn-color{
+    background-color: rgb(254,160,10);
+    color: white;
+padding: 22px;
+border-radius: 60px;
+border: none;
+font-size: 27px;
+height: 70px;
+width: 70px;
+cursor: pointer;
+margin-left: 5px;
+}
+.btn-color:hover{
+    background-color: white;
+    color: black;
+}
+.js-button{
+font-size: 50px;
+color: white;
+margin-left: 10px;
+
+}
